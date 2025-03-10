@@ -6047,6 +6047,16 @@
 		)
 		(uuid "07f5c4bd-ce91-41a0-8a1c-8158794f3621")
 	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 62.23 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "196b9be3-e367-416c-aaa8-ab27ab562e96")
+	)
 	(text "OLED&CAMERA"
 		(exclude_from_sim no)
 		(at 21.082 105.156 0)
