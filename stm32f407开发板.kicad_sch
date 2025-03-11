@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "stm32f407-core.kicad_sch"
 			(at 114.3 92.0246 0)
 			(effects
 				(font
